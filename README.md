@@ -1,5 +1,3 @@
-# Using-Mediapipe-project
-
 # 🎯 MediaPipe Computer Vision Projects Collection
 
 A complete collection of **13+ Real-Time Computer Vision Projects** built using **Python, OpenCV, and Google MediaPipe**.
@@ -107,32 +105,6 @@ This repository demonstrates various AI-powered real-time detection systems incl
 
 ---
 
-
-
-# 📁 Project Structure
-
-```
-MediaPipe Projects
-│
-├── Face and Hand Landmark Detection.py
-├── Hand Landmark Detection.py
-├── Pose Landmark Detection.py
-├── BlazePose.py
-├── Object Detection.py
-├── Motion Tracking.py
-├── Whole Detection.py
-├── README.md
-├── requirements.txt
-│
-└── outputs/
-    ├── face_hand.png
-    ├── 3D Object Detectiom.png
-    ├── 3D Object Detection from video.png
-    ├── Pose landmark Detection .png
-    └── Real-time pose mark detection.png
-```
-
----
 
 # ⚙ Installation
 
