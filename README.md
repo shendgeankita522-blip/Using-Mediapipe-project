@@ -72,51 +72,42 @@ This repository demonstrates various AI-powered real-time detection systems incl
 
 ## Face & Hand Landmark Detection
 
-![Face Hand](outputs/face_hand.png)
+
+<img width="977" height="775" alt="Output Face and handmark" src="https://github.com/user-attachments/assets/1ab9731f-bcfb-41b8-a8c1-e25291fe47b3" />
 
 ---
 
-## Hand Landmark Detection
+## 3D Object Detecion 
 
-![Hand](outputs/hand.png)
 
----
+<img width="960" height="725" alt="3D Object detection" src="https://github.com/user-attachments/assets/b746a921-b76e-4f31-9d4d-f6fa6f74b06b" />
 
-## Pose Landmark Detection
-
-![Pose](outputs/pose.png)
 
 ---
 
-## BlazePose
+## 3D Object Detection from Video 
 
-![BlazePose](outputs/blazepose.png)
+<img width="587" height="835" alt="3D Obejct detection from video" src="https://github.com/user-attachments/assets/c76ff765-c9d7-4909-b3fd-0d82d6fdece1" />
 
----
-
-## Object Detection
-
-![Object](outputs/object.png)
 
 ---
 
-## 3D Object Detection
+## Pose landmark Detection using Mediapipe 
 
-![Objectron](outputs/objectron.png)
+<img width="658" height="538" alt="Pose detection ouput" src="https://github.com/user-attachments/assets/5536f991-1e9d-41eb-bc21-eee535cca83c" />
 
----
-
-## Motion Tracking
-
-![Motion](outputs/motion.png)
 
 ---
 
-## Face Transform
+## Real-time pose Mark Detection 
 
-![Face Transform](outputs/face_transform.png)
+
+<img width="1238" height="925" alt="real-time pose mark dection output" src="https://github.com/user-attachments/assets/cf365fb1-134d-41d5-9ca9-46b36daf997a" />
+
 
 ---
+
+
 
 # 📁 Project Structure
 
@@ -135,12 +126,10 @@ MediaPipe Projects
 │
 └── outputs/
     ├── face_hand.png
-    ├── hand.png
-    ├── pose.png
-    ├── object.png
-    ├── motion.png
-    ├── face_transform.png
-    └── whole_detection.png
+    ├── 3D Object Detectiom.png
+    ├── 3D Object Detection from video.png
+    ├── Pose landmark Detection .png
+    └── Real-time pose mark detection.png
 ```
 
 ---
